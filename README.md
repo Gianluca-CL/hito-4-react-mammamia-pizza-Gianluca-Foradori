@@ -3,10 +3,13 @@ Hito 4 react mamma mia pizzeria
 
 🚀 ¿Cómo ejecutar el proyecto?
 Frontend
+
 Ir a la carpeta frontend
 Ejecutar en la terminal:
 npm install
 npm run dev
+
+
 Backend
 Ir a la carpeta backend
 Ejecutar en la terminal:
