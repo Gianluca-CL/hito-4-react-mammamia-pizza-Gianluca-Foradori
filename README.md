@@ -1,6 +1,5 @@
 # Pizzería Mamma Mía - Hito 4
-
-Este repo contiene el desarrollo del Hito 4 de Reacto de DESAFIO LATAM, donde se implementó una aplicación React que consume una API REST construida con Node.js y Express para mostrar información de pizzas.
+ Se implementó una aplicación React que consume una API REST construida con Node.js y Express para mostrar información de pizzas.
 
 
 
@@ -32,7 +31,5 @@ http://localhost:5173
 
 ## 📬 Contacto
 
-**Maximiliano Foradori** 
-
-Padre orgulloso de una hermosa hija, futuro programador, actual encargado de reclutamiento, selección y desarrollo organizacional en Santa Rita Estates.
-📧 maxforamont@live.cl
+**Gianluca Foradori** 
+Foramontjr@GMAIL.COM
